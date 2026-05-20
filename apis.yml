@@ -14,5 +14,7 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trumark-financial-credit-union
   - type: Website
     url: https://www.trumarkfinancial.org/
