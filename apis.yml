@@ -14,6 +14,10 @@ modified: '2026-05-05'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/trumark-financial-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/trumark-financial-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/trumark-financial-credit-union
   - type: Website
