@@ -17,6 +17,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/trumark-fi
 tags:
   - Credit Union
   - Banking
+  - Financial-Services
+  - Philadelphia
+tags_raw:
+  - Credit Union
+  - Banking
   - Financial Services
   - Philadelphia
 description: 'A Philadelphia-area credit union providing a full range of personal and business banking products and financial services to members across the region.'
