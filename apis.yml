@@ -38,10 +38,12 @@ tags_raw:
   - Financial-Services
 description: 'A Philadelphia-area credit union providing a full range of personal and business banking products and financial services to members across the region.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: http://ww19.trumarkfinancial.org/blog/
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/trumark-financial-vulnerability-disclosure.yml
   - type: DomainSecurity
